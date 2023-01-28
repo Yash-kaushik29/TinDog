@@ -10,6 +10,10 @@ p {
     color: #8f8f8f;
 }
 
+em {
+    font-size: 1.5rem;
+}
+
 /* Heading */
 
 .big-heading {
@@ -115,7 +119,7 @@ p {
 }
 
 .testimonial-image {
-    width: 10%;
+    width: 15%;
     border-radius: 100%;
     margin: 30px;
 }
